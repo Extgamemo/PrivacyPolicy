@@ -40,6 +40,34 @@ In particular, Users have the right to do the following:
 • Lodge a complaint. Users have the right to bring a claim before their competent data protection authority.
 Details about the right to object to processing Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection. Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification.
 How to exercise these rights Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
-7. Changes to this privacy policy
+6. Request user data deletion
+When you install and use “Extgamemo” mobile applications, we can collect and process some of your data for different legitimate purposes.
+You will find below explanations regarding the reasons why we may collect data. 
+7. Why is data collected?
+“Extgamemo” and its third-party partners collect data: 
+To provide you with the services you asked for
+To run analytics and understand how users interact with our product and services to improve them continuously
+The third-party partners that “Extgamemo” will share the data with are: 
+GameAnalytics
+Facebook Analytics
+Adjust
+Voodoo
+Data deletion requests
+To delete user data collected by “Extgamemo”, please reach out to “provided contact email”.
+If you also want to request the deletion of the data that may have been collected about you or your device by our third-party partners that are acting as independent data controllers, you will find below the contact for each partner and the link to the relevant section of their privacy policies:
+GameAnalytics:
+email: privacy@gameanalytics.com 
+privacy policy: https://gameanalytics.com/privacy/#6-changing-or-deleting-your-information
+Facebook Analytics:
+email: none, please refer to the privacy policy
+privacy policy: https://www.facebook.com/policy.php
+Adjust:
+email: privacy@adjust.com 
+privacy policy: https://www.adjust.com/terms/privacy-policy/ 
+Voodoo:
+Voodoo does not collect any of your personal data and only provides an SDK package to retrieve the data collected by the above-mentioned partners. You can still contact them to request the deletion of their access to the partners’ interfaces.
+email: dpo@voodoo.io
+
+8. Changes to this privacy policy
 The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within this Website and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
 Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
