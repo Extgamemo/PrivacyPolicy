@@ -45,26 +45,26 @@ When you install and use “Extgamemo” mobile applications, we can collect and
 You will find below explanations regarding the reasons why we may collect data. 
 7. Why is data collected?
 “Extgamemo” and its third-party partners collect data: 
-To provide you with the services you asked for
-To run analytics and understand how users interact with our product and services to improve them continuously
+• To provide you with the services you asked for
+• To run analytics and understand how users interact with our product and services to improve them continuously
 The third-party partners that “Extgamemo” will share the data with are: 
-GameAnalytics
-Facebook Analytics
-Adjust
-Voodoo
+• GameAnalytics
+• Facebook Analytics
+• Adjust
+• Voodoo
 Data deletion requests
 To delete user data collected by “Extgamemo”, please reach out to “provided contact email”.
 If you also want to request the deletion of the data that may have been collected about you or your device by our third-party partners that are acting as independent data controllers, you will find below the contact for each partner and the link to the relevant section of their privacy policies:
-GameAnalytics:
+• GameAnalytics:
 email: privacy@gameanalytics.com 
 privacy policy: https://gameanalytics.com/privacy/#6-changing-or-deleting-your-information
-Facebook Analytics:
+• Facebook Analytics:
 email: none, please refer to the privacy policy
 privacy policy: https://www.facebook.com/policy.php
-Adjust:
+• Adjust:
 email: privacy@adjust.com 
 privacy policy: https://www.adjust.com/terms/privacy-policy/ 
-Voodoo:
+• Voodoo:
 Voodoo does not collect any of your personal data and only provides an SDK package to retrieve the data collected by the above-mentioned partners. You can still contact them to request the deletion of their access to the partners’ interfaces.
 email: dpo@voodoo.io
 
